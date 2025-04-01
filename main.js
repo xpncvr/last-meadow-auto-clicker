@@ -28,9 +28,7 @@ var removeWeedsLabel = document.createElement("label");
 removeWeedsLabel.htmlFor = "removeWeeds";
 removeWeedsLabel.appendChild(document.createTextNode("Remove Weeds"));
 
-var targetElement = document.querySelector(
-  ".default__9026a.logo_cf3f70.logoGreen_cf3f70",
-);
+var targetElement = document.querySelector(".default__9026a.logo_cf3f70");
 if (targetElement) {
   clicker_button = targetElement;
   targetElement.appendChild(doClickingCheckbox);
@@ -45,8 +43,6 @@ if (targetElement) {
   removeWeedsCheckbox.addEventListener("change", function () {
     remove_pests = this.checked;
   });
-} else {
-  alert("There was a problem running the script (clicker element  not found)");
 }
 
 function doClicking() {
