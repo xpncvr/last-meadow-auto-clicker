@@ -7,6 +7,8 @@ It adds two check boxes to slect your options
 - press f12
 - go to "console"
 - paste the contents of the **main.js** file into it (you might have to manually type in "allow pasting" first)
+- enter
+- close devtools for best performace
 
 ![image](https://github.com/user-attachments/assets/eecb6778-c180-4bb3-8124-73679f4b4cc2)
 
