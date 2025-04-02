@@ -4,7 +4,7 @@ An auto clicker and auto pest remover for discord april fools game the last mead
 It adds two check boxes to slect your options
 
 # how to use it
-- press f12
+- press f12 (make sure you are on a web browser)
 - go to "console"
 - paste the contents of the **main.js** file into it (you might have to manually type in "allow pasting" first)
 - enter
