@@ -1,4 +1,4 @@
-# last meadow auto clicker
+# last meadow auto clicker (the event is over now so its archived)
 An auto clicker and auto pest remover for discord april fools game the last meadow for the lazieset discordians
 
 It adds two check boxes to slect your options
